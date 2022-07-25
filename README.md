@@ -1,1 +1,1 @@
-# Learning on UNICA course of teacher Trần Duy Thanh 
+# Learning from UNICA course of teacher Trần Duy Thanh 
