@@ -6,7 +6,7 @@ của máy và hiển thị số lần đoán.
 - Sau khi game kết thúc hỏi người chơi có tiếp tục hay không ?
 """
 import random
-win = False
+win = False  # Lệnh cờ nhận biết thắng hay thua 
 while True:
     n = random.randint(1, 100)
     for i in range(1, 8):
