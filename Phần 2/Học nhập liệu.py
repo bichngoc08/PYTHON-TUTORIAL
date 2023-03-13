@@ -7,9 +7,11 @@ print(type(s))
     2. Trả về chuỗi được viết thường 
 """
 
+
 def StrToBool(a):  # Định nghĩa 1 hàm, có giá trị đầu vào là a
     return a.lower() in ("true", "t", "1", "yes")
-ẻwerf
+
+
 """
     3.  Nếu khi nhập có các từ như trên thì sẽ trả kết quả về True
 """
